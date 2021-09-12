@@ -1,0 +1,13 @@
+com\product\controller\ProductController.class
+com\product\entity\SubscribedProd.class
+com\product\ProductApplication.class
+com\product\utility\ExceptionControllerAdvice.class
+com\product\entity\Product.class
+com\product\repository\SubscribedProdRepository.class
+com\product\dto\ProductDTO.class
+com\product\service\SubscribedProdService.class
+com\product\repository\ProductRepository.class
+com\product\utility\ErrorInfo.class
+com\product\service\ProductService.class
+com\product\dto\SubscribedProdDTO.class
+com\product\exception\ProductException.class
